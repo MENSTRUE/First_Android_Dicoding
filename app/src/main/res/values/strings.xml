@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Kamen Rider Fandom</string>
+
+    <string name="kamen_rider_name">Nama Kamen Rider</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about_me">About</string>
+
+    <string name="nama_saya">Wafa bila syaefurokhman</string>
+    <string name="email_saya">menstruesalvation@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Kamen Rider Ghost</item>
+        <item>Kamen Rider Ex aid</item>
+        <item>Kamen Rider Build</item>
+        <item>Kamen Rider Zio</item>
+        <item>Kamen Rider Zero one</item>
+        <item>Kamen Rider saber</item>
+        <item>Kamen Rider Revice</item>
+        <item>Kamen Rider Geats</item>
+        <item>Kamen Rider Gotchard</item>
+        <item>Kamen Rider Gavv</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kamen Rider Ghost (仮面ライダーゴースト, Kamen Raidā Gōsuto) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the seventeenth series in the Heisei period run and the thirtieth series overall. The series started on October 4, 2015 and joined Shuriken Sentai NinningerIcon-crosswiki in the Super Hero Time line-up after the finale of Kamen Rider Drive. After Ninninger concluded on February 7, 2016, the series was joined by Doubutsu Sentai ZyuohgerIcon-crosswiki. Its taglines are "I'll burn my life!" (命、燃やすぜ！, Inochi, moyasu ze!) and "A hero dies and is resurrected." (ヒーローは、一度死んで甦る。, Hīrō wa, ichido shinde yomigaeru)</item>
+        <item>Kamen Rider Ex-Aid (仮面ライダーエグゼイド, Kamen Raidā Eguzeido) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the eighteenth series in the Heisei period run and the thirty-first series overall. The series started on October 2, 2016 and joined Doubutsu Sentai ZyuohgerIcon-crosswiki in the Super Hero Time line-up after the finale of Kamen Rider Ghost. After the conclusion of Zyuohger, the series was joined by Uchu Sentai KyurangerIcon-crosswiki on February 12, 2017. The motif of the series is retro video gaming, as the Riders of the show utilize game cartridges called Rider Gashats and have gear and form motifs inspired by retro video games. The series also integrates medical drama into the story, as one of the main settings is a hospital and several of the main characters are doctors. The series taglines are "Game start!" (ゲームスタート！, Gēmu sutāto!) and "Change your fate with no continues!!" (ノーコンティニューで運命を変えろ!!, Nō kontinyū de unmei o kaero!!).</item>
+        <item>Kamen Rider Build (仮面ライダービルド, Kamen Raidā Birudo) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the nineteenth and penultimate series for a full Heisei period run and the thirty-second series overall. The series started on September 3, 2017, joining Uchu Sentai KyurangerIcon-crosswiki in the Super Hero Time line-up after the finale of Kamen Rider Ex-Aid. After Kyuranger concluded on February 4, 2018, the series was joined by Kaitou Sentai Lupinranger VS Keisatsu Sentai PatrangerIcon-crosswiki in the Super Hero Time line-up. After the finale of Kamen Rider Build, Lupinranger VS Patranger was joined by Kamen Rider Zi-O in the Super Hero Time block. The tagline of the series is "Now, shall we begin the experiment?" (さぁ、実験を始めようか。, Sa, jikken o hajimeyou ka). One of the underlying motifs of this season is science and scientific principles.</item>
+        <item>Kamen Rider Zi-O (仮面ライダージオウ, Kamen Raidā Jiō) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the twentieth and final entry of the Heisei Era, serving to commemorate its 20th Anniversary, and the thirty-third series overall. The series premiered on September 2, 2018 and joined Kaitou Sentai Lupinranger VS Keisatsu Sentai PatrangerIcon-crosswiki in the Super Hero Time line-up after the finale of Kamen Rider Build. After Lupinranger VS Patranger’s conclusion, it was joined by 4 Week Continuous Special Super Sentai Strongest Battle!!Icon-crosswiki in February 2019 and later Kishiryu Sentai RyusoulgerIcon-crosswiki in March 2019. The motif of the series is time. The series tagline is "I will become the king of Kamen Riders!" (俺は仮面ライダーの王となる！, Ore wa Kamen Raidā no ō to naru!). Much like Kamen Rider Decade, it commemorates all of the Heisei-era Kamen Riders to date.</item>
+        <item>Kamen Rider Zero-One (仮面ライダーゼロワン, Kamen Raidā Zerowan) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the first series to debut during the Reiwa period and the thirty-fourth overall. The series premiered on September 1, 2019 and joined Kishiryu Sentai RyusoulgerIcon-crosswiki in the Super Hero Time line-up after the finale of Kamen Rider Zi-O. After Ryusoulger concluded, the series was joined by Mashin Sentai KiramagerIcon-crosswiki on March 8, 2020. After the finale of Zero-One, Kiramager was joined by Kamen Rider Saber in the Super Hero Time block. The catchphrase for the series is "There's only one strongest company president in the world! It's me!" (世界最強の社長はただひとり！オレだ！, Sekai saikyō no shachō wa tada hitori! Ore da!).</item>
+        <item>Kamen Rider Saber (仮面ライダーセイバー聖刃, Kamen Raidā Seibā) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the second series to debut during the Reiwa period and the thirty-fifth overall. The series premiered on September 6, 2020 and joined Mashin Sentai KiramagerIcon-crosswiki in the Super Hero Time line-up after the finale of Kamen Rider Zero-One. After the conclusion of Kiramager, the series was joined by Kikai Sentai ZenkaigerIcon-crosswiki on March 7, 2021. After the finale of Saber, Zenkaiger was joined by Kamen Rider Revice in the Super Hero Time block. The catchphrase for the series is "Become a writer and a swordsman!!" (文豪にして剣豪！！, Bungō ni shite kengō!!)</item>
+        <item>Kamen Rider Revice (仮面ライダーリバイス, Kamen Raidā Ribaisu) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the third series to debut in the Reiwa Era and the thirty-sixth overall, and serves to commemorate the 50th Anniversary of the franchise. The series premiered on September 5, 2021, joining Kikai Sentai ZenkaigerIcon-crosswiki in the Super Hero Time line-up after the finale of Kamen Rider Saber. After Zenkaiger concluded on February 27, 2022, Revice was joined in the Super Hero Time line-up by Avataro Sentai DonbrothersIcon-crosswiki. After the finale of Revice, Donbrothers was joined by Kamen Rider Geats in the Super Hero Time Block. The series catchphrase is "The hero and the demon are a tag team... in other words, the strongest!" (ヒーローと悪魔が相棒タッグ... つまり最強!, Hīrō to akuma ga taggu... Tsumari saikyō!)</item>
+        <item>Kamen Rider Geats (仮面ライダーギーツ, Kamen Raidā Gītsu) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the fourth series to debut in the Reiwa Era and the thirty-seventh overall. The series premiered on September 4, 2022, joining Avataro Sentai DonbrothersIcon-crosswiki in the Super Hero TimeIcon-crosswiki lineup after the finale of Kamen Rider Revice. After Donbrothers concluded, Geats was joined in the Super Hero Time line-up by Ohsama Sentai King-OhgerIcon-crosswiki. After the finale of Geats, King-Ohger was joined by Kamen Rider Gotchard in the Super Hero Time block. The series taglines are "This game ― The winner in the end is me" (このゲーム―最後に勝つは俺オレだ, Kono gēmu ― Saigo ni katsu wa ore da) and "Congratulations, from today you are a Kamen Rider" (おめでとうございます、今日からあなたは仮面ライダーです。, Omedetō gozaimasu, kyō kara anata wa Kamen Raidā desu).</item>
+        <item>Kamen Rider Gotchard (仮面ライダーガッチャード, Kamen Raidā Gatchādo) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the fifth series to debut in the Reiwa Era and the thirty-eighth overall. The series premiered on September 3, 2023, joining Ohsama Sentai King-OhgerIcon-crosswiki in the Super Hero TimeIcon-crosswiki lineup after the finale of Kamen Rider Geats. After King-Ohger concluded, Gotchard was joined in the Super Hero Time line-up by Bakuage Sentai BoonboomgerIcon-crosswiki on March 3, 2024. After the finale of Gotchard, Boonboomger was joined in the line-up by Kamen Rider Gavv in the Super Hero Time block. The catchphrase of this show is "Seize it! The greatest Gotcha!" (「つかめ！最高さいこうのガッチャー！」, Tsukame! Saikō no Gatchā!).</item>
+        <item>Kamen Rider Gavv (仮面ライダーガヴ, Kamen Raidā Gavu) is a Japanese tokusatsu drama in Toei Companys Kamen Rider Series. It is the sixth series to debut in the Reiwa Era and the thirty-ninth overall.[1] The series premiered on September 1, 2024, joining Bakuage Sentai BoonboomgerIcon-crosswiki in the Super Hero TimeIcon-crosswiki lineup after the finale of Kamen Rider Gotchard. After Boonboomger concludes, Gavv will be joined in the Super Hero Time line-up by No.1 Sentai GozyugerIcon-crosswiki. The series catchphrase is "Be it snacks or evil, I'll eat it up!!" (お菓子も悪も、俺が食べつくす!!, Okashi mo aku mo, ore ga tabe tsukusu!!).</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/ghost</item>
+        <item>@drawable/exaid</item>
+        <item>@drawable/build</item>
+        <item>@drawable/zio</item>
+        <item>@drawable/zeroone</item>
+        <item>@drawable/saber</item>
+        <item>@drawable/revice</item>
+        <item>@drawable/geats</item>
+        <item>@drawable/gotchard</item>
+        <item>@drawable/gavv</item>
+    </string-array>
+
+</resources>
